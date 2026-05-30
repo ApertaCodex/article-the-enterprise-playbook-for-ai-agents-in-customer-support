@@ -426,19 +426,3 @@ The teams that succeed with support agents treat it as a product discipline, not
 ---
 
 To see how [Omnithium](https://omnithium.ai) helps enterprise teams deploy and govern multi-agent support systems, explore [pricing](https://omnithium.ai/pricing) for your scale.
-
----
-
-*Originally published on the [Omnithium Blog](https://omnithium.ai/blog/ai-agents-customer-support-playbook).*
-
-📚 Explore more articles on the [Omnithium Blog](https://omnithium.ai/blog)
-
-🚀 [Get started with Omnithium](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
-
----
-
-**[Omnithium](https://omnithium.ai)** -- the AI agent platform for enterprises.
-
-📚 [Explore the Omnithium Blog](https://omnithium.ai/blog) for more insights.
-
-🚀 [Get started](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
